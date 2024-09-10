@@ -1,0 +1,15 @@
+/Users/jasonpresher/C#/Projects/Draft/Draft/bin/Debug/net6.0/Draft
+/Users/jasonpresher/C#/Projects/Draft/Draft/bin/Debug/net6.0/Draft.deps.json
+/Users/jasonpresher/C#/Projects/Draft/Draft/bin/Debug/net6.0/Draft.runtimeconfig.json
+/Users/jasonpresher/C#/Projects/Draft/Draft/bin/Debug/net6.0/Draft.dll
+/Users/jasonpresher/C#/Projects/Draft/Draft/bin/Debug/net6.0/Draft.pdb
+/Users/jasonpresher/C#/Projects/Draft/Draft/obj/Debug/net6.0/Draft.csproj.AssemblyReference.cache
+/Users/jasonpresher/C#/Projects/Draft/Draft/obj/Debug/net6.0/Draft.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jasonpresher/C#/Projects/Draft/Draft/obj/Debug/net6.0/Draft.AssemblyInfoInputs.cache
+/Users/jasonpresher/C#/Projects/Draft/Draft/obj/Debug/net6.0/Draft.AssemblyInfo.cs
+/Users/jasonpresher/C#/Projects/Draft/Draft/obj/Debug/net6.0/Draft.csproj.CoreCompileInputs.cache
+/Users/jasonpresher/C#/Projects/Draft/Draft/obj/Debug/net6.0/Draft.dll
+/Users/jasonpresher/C#/Projects/Draft/Draft/obj/Debug/net6.0/refint/Draft.dll
+/Users/jasonpresher/C#/Projects/Draft/Draft/obj/Debug/net6.0/Draft.pdb
+/Users/jasonpresher/C#/Projects/Draft/Draft/obj/Debug/net6.0/Draft.genruntimeconfig.cache
+/Users/jasonpresher/C#/Projects/Draft/Draft/obj/Debug/net6.0/ref/Draft.dll
